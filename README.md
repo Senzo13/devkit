@@ -9,6 +9,10 @@
 **A collection of 20+ essential developer utilities in a single, fast web app.**
 Free, open-source, no ads, no tracking. Works offline — just open `index.html` in your browser.
 
+<p align="center">
+  <img src="devkit.png" alt="DevKit Preview" width="90%" />
+</p>
+
 ---
 
 ## ✨ Features
